@@ -39,3 +39,11 @@ You may better understand your target market, discover weak areas in your busine
 - SDK: A software development kit is a group of software development tools that enable the production of applications for a particular software package, framework, hardware platform, computer system, video game console, operating system, or other development platform and stages.
 
 - The real difference is the api is an interface for service while the SDK is a tools contains components and code the fragments  that was create for specific purpose also the SDK contains an API . When a developer utilizes an SDK to build systems and apps, those applications must interact with one another. An SDK offers an API that allows for this connection. However, while the API may be used for communication, it cannot be utilized to construct a new application.
+
+- Referances:
+
+- [1](https://blog.api.rakuten.net/api-benefits/)
+
+- [2](https://www.axway.com/en/products/api-management/extend-apis/sdk#:~:text=An%20API%20is%20a%20set,by%20another%20piece%20of%20software.)
+
+- [3](https://www.axway.com/en/products/api-management/extend-apis/sdk#:~:text=An%20API%20is%20a%20set,by%20another%20piece%20of%20software.)

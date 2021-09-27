@@ -65,3 +65,17 @@ GET [http://api.weatherbit.io/v2.0/forecast/daily](http://api.weatherbit.io/v2.0
 4. Authentication Key:
 
 - every api you use it must have an unique key and this key allow the developers to have a specific number to use it in the code  also this key can be used in public or private context in addition it increase the security for the api it self and every key have a limit number to use to avoid problem of bad request.
+
+***
+
+- Front End
+
+[gitHub](https://github.com/ammarzeyad/city-explorer)
+
+[Netlify](https://city-explorerr-ammarzeyad.netlify.app/)
+
+- Back End
+
+[gitHub](https://github.com/ammarzeyad/city-explorer-API)
+
+[Heroko](https://github.com/ammarzeyad/city-explorer-API)
